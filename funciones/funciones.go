@@ -11,7 +11,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	m "../models"
+	m "gr/models"
 )
 
 var client *mongo.Client
