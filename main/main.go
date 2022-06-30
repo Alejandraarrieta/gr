@@ -15,7 +15,7 @@ import (
 	"net/http"
 	"time"
 
-	f "./funciones"
+	f "gr/funciones"
 )
 
 var client *mongo.Client
